@@ -1,0 +1,74 @@
+body{
+  margin: 0;
+  background: url(https://github.com/AtechAjay/img_repo/blob/main/interlaced.png?raw=true);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  font-family: sans-serif;
+}
+.container{
+
+  background: white;
+  width: 400px;
+  height: 500px;
+  margin: 60px auto;
+  border-style: outset;
+}
+.hr{
+  margin: 0 auto;
+  background: linear-gradient(to right, #11998e, #38ef7d);
+  width: 100px;
+  height: 7px;
+}
+h1{
+  font-size: 40px;
+  margin: 15px;
+}
+.img{
+  width: 178px;
+  margin-top: 16px;
+}
+.inputs{
+  background: rgba(56, 239, 126, 0.125);
+  border: none;
+  width: 90%;
+  height: 30px;
+  margin-bottom: 15px;
+  margin-top: 10px;
+}
+.form{
+  text-align: left;
+  margin-left: 20px;
+}
+.lab{
+  font-size: 18px;
+}
+.pass{
+  margin-left: 84px;
+  text-decoration: none;
+}
+button{
+ background: linear-gradient(to right, #11998e, #38ef7d);
+ border: none;
+ width: 87%;
+ height: 30px;
+ margin: 15px 50px 15px 20px;
+ color: white;
+ font-size: 20px;
+ cursor: pointer;
+}
+button:hover{
+  background: blue;
+}
+.link{
+  text-align: left;
+  margin-left: 20px;
+}
+.pol{
+  text-decoration: none;
+}
+.terms{
+  text-decoration: none;
+  margin-left: 110px;
+}
